@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/olxClone/static/css/main.0ff1f663.chunk.css",
+    "main.js": "/olxClone/static/js/main.da449653.chunk.js",
+    "main.js.map": "/olxClone/static/js/main.da449653.chunk.js.map",
+    "runtime-main.js": "/olxClone/static/js/runtime-main.da14d396.js",
+    "runtime-main.js.map": "/olxClone/static/js/runtime-main.da14d396.js.map",
+    "static/css/2.5225f795.chunk.css": "/olxClone/static/css/2.5225f795.chunk.css",
+    "static/js/2.8a10141c.chunk.js": "/olxClone/static/js/2.8a10141c.chunk.js",
+    "static/js/2.8a10141c.chunk.js.map": "/olxClone/static/js/2.8a10141c.chunk.js.map",
+    "index.html": "/olxClone/index.html",
+    "static/css/2.5225f795.chunk.css.map": "/olxClone/static/css/2.5225f795.chunk.css.map",
+    "static/css/main.0ff1f663.chunk.css.map": "/olxClone/static/css/main.0ff1f663.chunk.css.map",
+    "static/js/2.8a10141c.chunk.js.LICENSE.txt": "/olxClone/static/js/2.8a10141c.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/olxClone/static/media/bootstrap-icons.7165e5d7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da14d396.js",
+    "static/css/2.5225f795.chunk.css",
+    "static/js/2.8a10141c.chunk.js",
+    "static/css/main.0ff1f663.chunk.css",
+    "static/js/main.da449653.chunk.js"
+  ]
+}
